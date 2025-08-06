@@ -14,3 +14,23 @@ Frontend (TBD): React
 ## Core Features
 
 User authentication, spending, budgeting, investment, and account management. 
+
+## Backend Architecture
+
+src/
+|---main/
+    |---java/com/financeapp/
+        |---PersonalFinanceApplication.java
+        |---config/
+        |---controller/
+        |---service/
+        |---repository/
+        |---model/
+        |---dto/
+        |---exception/
+        |---security/
+|---test/ 
+
+
+## Frontend Architecture
+
